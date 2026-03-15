@@ -10,3 +10,5 @@ Or you can run "tauri_build.bat" to build the launcher
 This launcher has apis for this backend: https://github.com/ghostcubert/Reload-Backend
 
 Once again credits go to Pablo and Ghostcubert for making the launcher
+
+
